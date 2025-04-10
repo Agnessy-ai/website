@@ -10,7 +10,7 @@ A visionary leader, Augustine is passionate about leveraging innovation, data-dr
 
 
 
-**Investment Advisory**
+### **Investment Advisory**
 At Streetwise Advisors, our Investment Advisory services are strategically designed to align with the unique financial goals, operational mandates, and risk tolerance levels of our clients — ranging from individual high-net-worth investors and corporate entities to government institutions and development agencies.
 
 We offer bespoke, end-to-end advisory solutions grounded in rigorous analysis, market intelligence, and fiduciary responsibility. Whether the objective is wealth creation, capital preservation, institutional asset growth, or sovereign investment planning, we ensure every strategy is rooted in transparency, precision, and long-term value.
