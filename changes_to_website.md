@@ -115,7 +115,61 @@ From start-up growth plans to sovereign transformation strategies, we provide th
 
 
 
+## **Corporate Restructuring**
+At Streetwise Advisors, we specialize in guiding organizations through complex restructuring processes that require precision, discretion, and strategic foresight. Our Corporate Restructuring services are designed to help businesses restore financial health, improve operational performance, and unlock value in times of disruption, underperformance, or crisis.
 
+We work alongside C-suite executives, investors, boards, and stakeholders to develop tailored turnaround strategies that are both implementable and sustainable. Our restructuring engagements are informed by deep financial analysis, market intelligence, and change management expertise — ensuring rapid stabilization and long-term transformation.
+
+Our Corporate Restructuring Services Include:
+1. Turnaround Strategy Development
+We craft holistic turnaround plans that address both immediate solvency concerns and long-term growth imperatives. These strategies prioritize:
+
+Liquidity management
+
+Cost optimization
+
+Business unit reorganization
+
+Stakeholder engagement and communication
+
+2. Debt Restructuring & Creditor Negotiation
+We support companies in renegotiating debt terms and navigating creditor relationships, including:
+
+Debt consolidation and refinancing
+
+Capital structure optimization
+
+Creditor engagement and mediation
+
+Covenant analysis and restructuring scenario modeling
+
+3. Performance Improvement Initiatives
+We help clients identify and execute initiatives that yield measurable improvements in profitability, efficiency, and productivity. This includes:
+
+Operational restructuring and workflow redesign
+
+Supply chain and procurement optimization
+
+Revenue enhancement and margin improvement
+
+Workforce right-sizing and capability realignment
+
+4. Distressed Asset Advisory & Recovery Support
+We advise companies, investors, and financial institutions on the acquisition, restructuring, and recovery of distressed assets. Our support covers valuation, risk analysis, restructuring blueprints, and post-acquisition stabilization.
+
+5. Stakeholder & Governance Realignment
+We facilitate stakeholder alignment and governance restructuring to ensure accountability, transparency, and strategic cohesion. This is especially critical in family businesses, state-owned enterprises, or organizations with complex ownership structures.
+
+Why Streetwise Advisors?
+⚖️ Deep experience in financial recovery, insolvency mitigation, and turnaround planning
+
+🤝 Trusted advisors to boards, restructuring officers, development finance institutions (DFIs), and regulators
+
+📊 Robust analytical frameworks and hands-on implementation support
+
+🌐 Knowledge of regional business climates and cross-border restructuring dynamics
+
+We don’t just recommend — we co-create, execute, and deliver results. Whether you're facing a financial crisis, strategic impasse, or operational inefficiency, Streetwise Advisors brings clarity, control, and a path forward.
 
 
 
