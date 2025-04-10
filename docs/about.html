@@ -16,19 +16,23 @@
       padding: 10px;
       display: inline-block;
     }
+
     .logo-box img,
     .sticky-header .logo-box img,
     .footer-logo img {
       width: 160px;
       height: auto;
     }
+
+    /* Show commitment section properly */
     #our-commitment {
       position: relative;
       z-index: 2;
       padding: 80px 0;
       background: #ffffff;
     }
-      #our-commitment .title-box h2 {
+
+    #our-commitment .title-box h2 {
       font-size: 36px;
       line-height: 45px;
       font-weight: 700;
@@ -36,7 +40,7 @@
       margin-bottom: 20px;
       text-align: center;
     }
-    
+
     #our-commitment .title-box .text {
       font-size: 16px;
       line-height: 28px;
@@ -45,11 +49,15 @@
       margin: 0 auto;
       text-align: center;
     }
+
+    /* REMOVE these from style.css:
+    .ourmission-section:before, 
+    .ourmission-section:after {
+      ... [deleted]
+    } */
   </style>
 </head>
 <body class="boxed_wrapper">
-  <!-- preloader -->
-  <div class="preloader"></div>
 
   <!-- header -->
   <header class="main-header">
@@ -68,7 +76,7 @@
                 Streetwise Advisors is a management consulting firm based in Accra, Ghana, specializing in corporate finance, strategic business planning, digital transformation, cybersecurity, and investment advisory services. Established in November 2020, our mission is to deliver tailored solutions that drive growth and innovation for our clients.
               </div>
             </div>
-            <div class="inner-box clearfix" data-aos="fade-right" data-aos-easing="linear" data-aos-duration="1500">
+            <div class="inner-box clearfix">
               <div class="single-item">
                 <div class="item">
                   <div class="icon-box"><i class="flaticon-briefcase"></i></div>
