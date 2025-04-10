@@ -172,6 +172,70 @@ Why Streetwise Advisors?
 We don’t just recommend — we co-create, execute, and deliver results. Whether you're facing a financial crisis, strategic impasse, or operational inefficiency, Streetwise Advisors brings clarity, control, and a path forward.
 
 
+## **Featured Case Studies Layout Plan**
+
+Featured Case Studies Layout Plan
+Section Title:
+
+Featured Case Studies
+Subtitle:
+
+Real-world results. Strategic impact. See how we’ve helped our clients transform and thrive.
+
+💼 Visual Style Recommendation
+Use clean, modern cards in a grid layout (2x2) or carousel slider format with:
+
+Case Number
+
+Title of Engagement
+
+Short description
+
+Optional: Add icons, stats, or links to detailed writeups
+
+🧩 Case Study Cards Design
+✅ 01 — Corporate Finance Optimization
+Visual: Chart icon or business growth graphic
+Headline: Corporate Finance Optimization
+Summary:
+
+Designed and executed a capital restructuring strategy for a leading enterprise, resulting in reduced financial risk, optimized leverage, and sustainable long-term growth.
+Impact Highlight:
+📊 Reduced debt-to-equity ratio by 35% within 12 months
+
+✅ 02 — Strategic Business Planning
+Visual: Target icon or roadmap visual
+Headline: Strategic Business Planning
+Summary:
+
+Delivered a comprehensive market entry and growth strategy for a multinational client, incorporating competitive analysis, stakeholder alignment, and execution mapping.
+Impact Highlight:
+🌍 Achieved 2x market share expansion in under 18 months
+
+✅ 03 — Digital Transformation
+Visual: AI chip or transformation arrow graphic
+Headline: Digital Transformation
+Summary:
+
+Supported a mid-sized logistics company with AI-powered workflow redesign and ML-driven forecasting tools to boost operational efficiency.
+Impact Highlight:
+⚙️ Increased operational productivity by 28%
+
+✅ 04 — Cybersecurity Enhancement
+Visual: Shield or lock icon
+Headline: Cybersecurity Enhancement
+Summary:
+
+Assessed digital vulnerabilities and deployed a layered cybersecurity strategy, including employee training, policy reform, and infrastructure hardening.
+Impact Highlight:
+🔐 Reduced incident frequency by 70% within the first year
+
+
+
+
+
+
+
 
 ### **1. Home Page**
 **Main Elements:**
