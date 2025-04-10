@@ -1823,6 +1823,7 @@ body.flyout-searchbar-active .wraper_flyout_search > .table > .table-cell .flyou
   position: relative;
   display: block;
   padding: 60px 0px 0px;
+ z-index: 1;
 }
 
 .ourmission-section:before{
@@ -1840,6 +1841,7 @@ body.flyout-searchbar-active .wraper_flyout_search > .table > .table-cell .flyou
 .ourmission-section:after{
   position: absolute;
   content: '';
+  z-index: 0;
   background: url(../images/icons/factory-icon-1.png);
   width: 493px;
   height: 437px;
