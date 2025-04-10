@@ -1,89 +1,138 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Our Services - Streetwise Advisors</title>
-  <link rel="stylesheet" href="../css/style.css" />
-  <link rel="stylesheet" href="../css/responsive.css" />
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>About - Streetwise Advisors</title>
+  <link href="../css/style.css" rel="stylesheet">
+  <link href="../css/responsive.css" rel="stylesheet">
+  <link rel="icon" href="../images/favicon.ico" type="image/x-icon">
+  <style>
+    .logo-box,
+    .sticky-header .logo-box,
+    .footer-logo {
+      background-color: white;
+      padding: 10px;
+      display: inline-block;
+    }
+    .logo-box img,
+    .sticky-header .logo-box img,
+    .footer-logo img {
+      width: 160px;
+      height: auto;
+    }
+
+    /* Remove overlays */
+    .ourmission-section:before,
+    .ourmission-section:after {
+      display: none !important;
+    }
+
+    /* Force visibility of the Our Commitment section */
+    #our-commitment {
+      position: relative;
+      z-index: 1000;
+      padding: 80px 0;
+      background: #ffffff;
+      opacity: 1 !important;
+      visibility: visible !important;
+      display: block !important;
+      height: auto !important;
+    }
+
+    #our-commitment .title-box h2 {
+      font-size: 36px;
+      line-height: 45px;
+      font-weight: 700;
+      color: #192d66;
+      margin-bottom: 20px;
+      text-align: center;
+    }
+
+    #our-commitment .title-box .text {
+      font-size: 16px;
+      line-height: 28px;
+      color: #555;
+      max-width: 800px;
+      margin: 0 auto;
+      text-align: center;
+    }
+  </style>
 </head>
 <body class="boxed_wrapper">
 
-  <!-- Page Banner -->
-  <section class="page-title" style="background-image: url(../images/banner/services-banner.jpg);">
+  <!-- header -->
+  <header class="main-header">
+    <!-- header content can remain or be removed -->
+  </header>
+
+  <!-- About Page Main Section -->
+  <section class="weare-section">
     <div class="container">
-      <h1>Our Services</h1>
-      <p>Tailored solutions to drive your business forward</p>
-    </div>
-  </section>
-
-  <!-- Services Section -->
-  <section class="service-section">
-    <div class="container">
-      <div class="sec-title centred">
-        <h1>Our Advisory Services</h1>
-        <p>We provide comprehensive solutions across finance, technology, strategy, and operations.</p>
-      </div>
-      <div class="row">
-
-        <!-- Corporate Finance -->
-        <div class="col-lg-6 col-md-12 service-block">
-          <div class="service-block-one wow fadeInLeft" data-wow-delay="0ms" data-wow-duration="1500ms">
-            <div class="inner-box">
-              <div class="icon-box"><i class="flaticon-briefcase"></i></div>
-              <h3>Corporate Finance</h3>
-              <div class="text">Financial structuring, capital raising, and M&A advisory to optimize performance.</div>
+      <div class="row justify-content-center">
+        <div class="col-xl-8 col-lg-10 col-md-12 content-column">
+          <div class="content-box">
+            <div class="title-box">
+              <h2>About Streetwise Advisors</h2>
+              <div class="text">
+                Streetwise Advisors is a management consulting firm based in Accra, Ghana, specializing in corporate finance, strategic business planning, digital transformation, cybersecurity, and investment advisory services. Established in November 2020, our mission is to deliver tailored solutions that drive growth and innovation for our clients.
+              </div>
+            </div>
+            <div class="inner-box clearfix" data-aos="fade-right" data-aos-easing="linear" data-aos-duration="1500">
+              <div class="single-item">
+                <div class="item">
+                  <div class="icon-box"><i class="flaticon-briefcase"></i></div>
+                  <h2>5+ Years</h2>
+                  <div class="text">In Operation</div>
+                </div>
+              </div>
+              <div class="single-item">
+                <div class="item">
+                  <div class="icon-box"><i class="flaticon-group"></i></div>
+                  <h2>100+</h2>
+                  <div class="text">Projects Completed</div>
+                </div>
+              </div>
             </div>
           </div>
         </div>
-
-        <!-- Strategic Business Planning -->
-        <div class="col-lg-6 col-md-12 service-block">
-          <div class="service-block-one wow fadeInRight" data-wow-delay="0ms" data-wow-duration="1500ms">
-            <div class="inner-box">
-              <div class="icon-box"><i class="flaticon-target"></i></div>
-              <h3>Strategic Business Planning</h3>
-              <div class="text">Developing strategies and business audits for long-term objectives.</div>
-            </div>
-          </div>
-        </div>
-
-        <!-- Digital Transformation -->
-        <div class="col-lg-6 col-md-12 service-block">
-          <div class="service-block-one wow fadeInLeft" data-wow-delay="200ms" data-wow-duration="1500ms">
-            <div class="inner-box">
-              <div class="icon-box"><i class="flaticon-reload"></i></div>
-              <h3>Digital Transformation</h3>
-              <div class="text">Streamlining operations and boosting efficiency with AI and ML.</div>
-            </div>
-          </div>
-        </div>
-
-        <!-- Cybersecurity -->
-        <div class="col-lg-6 col-md-12 service-block">
-          <div class="service-block-one wow fadeInRight" data-wow-delay="200ms" data-wow-duration="1500ms">
-            <div class="inner-box">
-              <div class="icon-box"><i class="flaticon-security"></i></div>
-              <h3>Cybersecurity</h3>
-              <div class="text">Training and programs to strengthen organizational cyber defense.</div>
-            </div>
-          </div>
-        </div>
-
-        <!-- Investment Advisory -->
-        <div class="col-lg-12 col-md-12 service-block">
-          <div class="service-block-one wow fadeInUp" data-wow-delay="400ms" data-wow-duration="1500ms">
-            <div class="inner-box">
-              <div class="icon-box"><i class="flaticon-line-chart"></i></div>
-              <h3>Investment Advisory</h3>
-              <div class="text">Advisory on purchasing instruments and arranging deals for clients.</div>
-            </div>
-          </div>
-        </div>
-
       </div>
     </div>
   </section>
 
+  <!-- Commitment Section -->
+  <section class="ourmission-section" id="our-commitment">
+    <div class="container">
+      <div class="title-box centred">
+        <h2>Our Commitment</h2>
+        <div class="text">
+          At Streetwise Advisors, we prioritize integrity, innovation, and excellence. Our client-centric approach ensures we understand and address the unique challenges of every organization, delivering impactful and sustainable solutions.
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- footer -->
+  <footer class="main-footer">
+    <!-- footer content can be added here -->
+  </footer>
+
+  <button class="scroll-top scroll-to-target" data-target="html">
+    <span class="fa fa-arrow-up"></span>
+  </button>
+
+  <!-- Scripts -->
+  <script src="../js/jquery.js"></script>
+  <script src="../js/popper.min.js"></script>
+  <script src="../js/bootstrap.min.js"></script>
+  <script src="../js/owl.js"></script>
+  <script src="../js/wow.js"></script>
+  <script src="../js/validation.js"></script>
+  <script src="../js/jquery.fancybox.js"></script>
+  <script src="../js/appear.js"></script>
+  <script src="../js/aos.js"></script>
+  <script src="../js/jquery.countTo.js"></script>
+  <script src="../js/script.js"></script>
 </body>
 </html>
