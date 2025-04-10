@@ -1,4 +1,4 @@
-### Biography**
+### **Biography**
 Personal Profile – Augustine Baidoo
 Augustine Baidoo is a seasoned finance and investment professional with over 15 years of experience in investment banking, corporate finance, and business valuation. He is a Certified Business Valuation Analyst with an MBA in Finance and a Bachelor’s degree in Accounting and Management. With a deep understanding of capital markets, financial structuring, and risk management, he has successfully raised funding for various asset classes and led corporate restructuring initiatives.
 
